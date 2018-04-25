@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.i-love-movies {
+  font-size: 60px;
+}
+
+.last-movie .emoji {
+  width: 30px;
+  height: 30px;
+}
